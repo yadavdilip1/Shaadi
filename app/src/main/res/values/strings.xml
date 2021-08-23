@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shaadi</string>
+    <string name="ignore_action_text">Decline</string>
+    <string name="email_action_text">email</string>
+    <string name="connect_action_text">Accept</string>
+    <string name="not_match_found_for_you">No match found for you!</string>
+
+</resources>
